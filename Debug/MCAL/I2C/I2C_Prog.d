@@ -1,0 +1,1 @@
+MCAL/I2C/I2C_Prog.o MCAL/I2C/I2C_Prog.o: ../MCAL/I2C/I2C_Prog.c
